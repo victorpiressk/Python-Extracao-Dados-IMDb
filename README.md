@@ -1,5 +1,12 @@
 # Extração de Dados do IMDb
 
+## [0.0.2] - 2025-11-13
+
+### Changed
+
+#### Arquivo `multithreading_test.py`:
+- Atualização das funções de extração de dados do IMDb
+
 ## [0.0.1] - 2025-11-10
 
 ### Added 
